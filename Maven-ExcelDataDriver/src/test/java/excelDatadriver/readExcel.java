@@ -30,7 +30,7 @@ public class readExcel {
 			}
 			
 		}
-		
+		System.out.println(colNum);
 //		System.out.println(colNum);
 		
 		while(rows.hasNext()) {
